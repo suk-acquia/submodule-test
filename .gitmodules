@@ -1,0 +1,3 @@
+[submodule "theme-test"]
+	path = theme-test
+	url = https://github.com/suk-acquia/theme-test
